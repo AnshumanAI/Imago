@@ -5,7 +5,7 @@ This repository contains code for predicting DON (vomitoxin) concentration in co
 ## Setup Instructions
 
  * Clone the Repository
-  git clone https://github.com/yourusername/corn-don-prediction.git
+  git clone https://github.com/AnshumanAI/Imago.git
   cd corn-don-prediction
  * Run the Code
   jupyter notebook
